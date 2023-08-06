@@ -1,0 +1,1 @@
+/home/deych/.config/HyprV/mako/conf/config-dark
